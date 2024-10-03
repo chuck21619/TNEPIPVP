@@ -1,0 +1,4 @@
+## Interface: 100005
+## Title: TargetNearestEnemyPlayerInPVP
+## SavedVariables: TTK_EnabledForArena, TTK_EnabledForBattlegrounds, TTK_EnabledForEpicBattlegrounds, TTK_PrintActionsToChat
+TargetNearestEnemyPlayerInPVP.lua
